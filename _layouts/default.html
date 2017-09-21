@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <link rel="icon" type="image/png" href="/assets/favicon-32x32.png" sizes="32x32" />
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
     {% include meta.html %}
@@ -12,11 +11,6 @@
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-
-
-{% include analytics.html %}
-
-
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
@@ -35,9 +29,6 @@
           <nav>
             <a href="{{ site.baseurl }}/">Blog</a>
             <a href="{{ site.baseurl }}/about">About</a>
-            <a href="https://github.com/adeshpande3">GitHub</a>
-            <a href="{{ site.baseurl }}/projects">Projects</a>
-            <a href="{{ site.baseurl }}/resume.pdf" target="_blank">Resume</a>
           </nav>
         </header>
       </div>
