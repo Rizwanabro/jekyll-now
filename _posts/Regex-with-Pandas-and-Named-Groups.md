@@ -1,7 +1,7 @@
 
 ---
-
-_You are currently looking at **version 1.0** of this notebook. To download notebooks and datafiles, as well as get help on Jupyter notebooks in the Coursera platform, visit the [Jupyter Notebook FAQ](https://www.coursera.org/learn/python-text-mining/resources/d9pwm) course resource._
+layout: post
+excerpt: Text Mining Basics with Regular Expressions
 
 ---
 
