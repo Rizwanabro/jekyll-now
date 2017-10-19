@@ -1,7 +1,6 @@
 
 ---
-layout: post
-title: Text Mining Basics with Regular Expressions
+
 ---
 
 # Working with Text Data in pandas
